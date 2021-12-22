@@ -6,6 +6,7 @@
 * **E-mail:** vovkahorror@gmail.com
 * **Telegram:** [@vovkahorror](https://tlgg.ru/vovkahorror)
 * **GitHub:** [vovkahorror](https://github.com/vovkahorror)
+* **Discord:** [vovkahorror]
 
 ## About Myself
 My number one goal is to become a front-end developer.
@@ -17,3 +18,13 @@ I love to study and enjoy the feeling that I know more today than I knew yesterd
 * CSS3
 * JavaScript (basic)
 * Git (basic)
+
+## Code example:
+```
+function multiply(a, b){
+ return a * b;
+}
+```
+
+## Experience
+My project: [Novaboard](https://vovkahorror.github.io/exam/) ([source](https://github.com/vovkahorror/exam))
