@@ -1,4 +1,5 @@
 # Volodymyr Yaremchak
+![My photo](https://i.ibb.co/r5V3CM7/photo.jpg)
 
 ## Contacts
 * **Location:** Kherson, Ukraine
@@ -6,7 +7,7 @@
 * **E-mail:** vovkahorror@gmail.com
 * **Telegram:** [@vovkahorror](https://tlgg.ru/vovkahorror)
 * **GitHub:** [vovkahorror](https://github.com/vovkahorror)
-* **Discord:** [vovkahorror]
+* **Discord:** vovkahorror
 
 ## About Myself
 My number one goal is to become a front-end developer.
@@ -19,7 +20,7 @@ I love to study and enjoy the feeling that I know more today than I knew yesterd
 * JavaScript (basic)
 * Git (basic)
 
-## Code example:
+## Code example
 ```
 function multiply(a, b){
  return a * b;
@@ -27,4 +28,12 @@ function multiply(a, b){
 ```
 
 ## Experience
-My project: [Novaboard](https://vovkahorror.github.io/exam/) ([source](https://github.com/vovkahorror/exam))
+My project: **[Novaboard](https://vovkahorror.github.io/exam/)** ([source](https://github.com/vovkahorror/exam))
+
+## Courses
+* **HTML5 + CSS3 + JS** ([Wezom Academy](https://wezom.academy/))
+* **HTML** and **CSS** courses ([Sololearn](https://www.sololearn.com/))
+* **JavaScript/Front-end. Stage 0** - in progress ([RS School](https://rs.school/))
+
+## English
+My level of English is **A1 (Beginner)**, but I am working on improving my skills in this direction.
