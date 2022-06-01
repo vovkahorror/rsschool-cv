@@ -5,7 +5,7 @@
 * **Location:** Khmelnytskyi, Ukraine
 * **Phone:** +380502748009
 * **E-mail:** vovkahorror@gmail.com
-* **Telegram:** [@vovkahorror](https://t.me/vovkahorror)
+* **Telegram:** [vovkahorror](https://t.me/vovkahorror)
 * **GitHub:** [vovkahorror](https://github.com/vovkahorror)
 * **Discord:** [vovkahorror](https://discord.com/users/vovkahorror/)
 
