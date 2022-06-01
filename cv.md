@@ -1,13 +1,13 @@
 # Volodymyr Yaremchak
-![My photo](https://i.ibb.co/r5V3CM7/photo.jpg)
+![My photo](https://i.ibb.co/jhqk3sD/1654098515943.jpg)
 
 ## Contacts
-* **Location:** Kherson, Ukraine
+* **Location:** Khmelnytskyi, Ukraine
 * **Phone:** +380502748009
 * **E-mail:** vovkahorror@gmail.com
-* **Telegram:** [@vovkahorror](https://tlgg.ru/vovkahorror)
+* **Telegram:** [@vovkahorror](https://t.me/vovkahorror)
 * **GitHub:** [vovkahorror](https://github.com/vovkahorror)
-* **Discord:** vovkahorror
+* **Discord:** [vovkahorror](https://discord.com/users/vovkahorror/)
 
 ## About Myself
 My number one goal is to become a front-end developer.
@@ -32,7 +32,7 @@ My project: **[Novaboard](https://vovkahorror.github.io/exam/)** ([source](https
 
 ## Courses
 * **HTML5 + CSS3 + JS** ([Wezom Academy](https://wezom.academy/))
-* **HTML** and **CSS** courses ([Sololearn](https://www.sololearn.com/))
+* **HTML** and **CSS** courses ([Sololearn](https://www.sololearn.com/), [Stepik](https://stepik.org/), [ИНТУИТ](https://intuit.ru/))
 * **JavaScript/Front-end. Stage 0** - in progress ([RS School](https://rs.school/))
 
 ## English
