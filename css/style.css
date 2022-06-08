@@ -89,18 +89,113 @@ body {
 .header-vibes {
   position: absolute;
   left: 0;
-  top: 115px;
+  top: 120px;
 }
 
 .belowheader-line {
   margin: 0;
   width: 100%;
   height: 7px;
-  color: #fefefe;
+  background: #fefefe;
   border: none;
 }
 
-.main {
+.main-block {
   display: flex;
   justify-content: space-between;
+}
+
+.main-leftcol,
+.main-rightcol {
+  width: 50%;
+}
+
+.main-heading {
+  margin: 30px 0 0 0;
+  font-family: Syne, sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 29px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #fefefe;
+}
+
+.main-text {
+  margin: 10px 20px;
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: justify;
+  line-height: 1.6;
+  color: #fefefe;
+}
+
+.main-skills-list,
+.main-courses-list {
+  padding-left: 16px;
+}
+
+.main-code-pre {
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: justify;
+  line-height: 1.6;
+  color: #bdbdbd;
+}
+
+.main-photo-image {
+  display: block;
+  margin: 30px auto;
+}
+
+.main-experience-figure {
+  margin: 10px 0;
+}
+
+.main-experience-figure-title {
+  font-family: Syne, sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 29px;
+  text-align: center;
+  color: #fefefe;
+}
+
+.main-experience-figure-link {
+  color: #fefefe;
+  text-decoration: none;
+}
+
+.main-experience-figure-image {
+  display: block;
+  margin: 5px auto;
+  width: 275px;
+  border: 2px solid #fefefe;
+  border-radius: 5%;
+  transition: transform 0.1s linear, box-shadow 0.1s linear;
+}
+
+.main-experience-figure-image:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 5px #fefefe;
+}
+
+.main-contacts-images {
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+  margin: 10px auto;
+}
+
+.main-contacts-icon {
+  color: #fefefe;
+  width: 40px;
+  transition: transform 0.1s linear;
+}
+
+.main-contacts-icon:hover {
+  transform: scale(1.2);
 }
