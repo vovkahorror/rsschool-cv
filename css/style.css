@@ -31,7 +31,7 @@ body {
 }
 
 .header-hometown {
-  font-size: 9px;
+  font-size: 12px;
 }
 
 .header-contacts {
@@ -39,7 +39,7 @@ body {
   top: 60px;
   right: 200px;
   line-height: 12px;
-  font-size: 9px;
+  font-size: 10px;
   font-family: Lato, sans-serif;
 }
 
@@ -82,7 +82,7 @@ body {
 
 .header-github * {
   font-family: Lato, sans-serif;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 11px;
   color: #fefefe;
   text-decoration: none;
@@ -103,6 +103,7 @@ body {
 }
 
 .main-block {
+  position: relative;
   display: flex;
   justify-content: space-between;
 }
@@ -123,10 +124,17 @@ body {
   color: #fefefe;
 }
 
+.main-line {
+  display: block;
+  margin: -5px auto;
+}
+
 .main-skills-block {
   display: flex;
   justify-content: space-between;
   margin: 10px;
+  padding: 0;
+  list-style: none;
 }
 
 .main-skills-image {
@@ -195,9 +203,22 @@ body {
   text-decoration: none;
 }
 
+.main-limitation {
+  position: absolute;
+  z-index: -1;
+  top: 670px;
+  left: 0;
+}
+
 .main-photo-image {
   display: block;
   margin: 30px auto;
+}
+
+.main-career {
+  position: absolute;
+  top: 250px;
+  right: 0;
 }
 
 .main-experience-figure {
@@ -247,4 +268,40 @@ body {
 
 .main-contacts-icon:hover {
   transform: scale(1.2);
+}
+
+.footer {
+  background: url(../images/footer-background.png) no-repeat;
+  background-position: top center;
+  padding-top: 35px;
+  padding-bottom: 5px;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-github,
+.footer-rs {
+  margin: 0 10px;
+  color: #1d1d1d;
+}
+
+.footer-github {
+  width: 30px;
+}
+
+.footer-rs {
+  width: 70px;
+}
+
+.footer-year {
+  display: flex;
+  justify-content: center;
+  font-family: Lato, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #1d1d1d;
 }
