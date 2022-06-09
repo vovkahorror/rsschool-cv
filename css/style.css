@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-  width: 595px;
+  max-width: 595px;
   margin: 0 auto;
 }
 
@@ -35,8 +35,10 @@ body {
 }
 
 .header-contacts {
-  margin: 0 0 0 300px;
-  line-height: 8px;
+  position: absolute;
+  top: 60px;
+  right: 200px;
+  line-height: 12px;
   font-size: 9px;
   font-family: Lato, sans-serif;
 }
@@ -54,7 +56,7 @@ body {
 
 .header-arrows {
   position: absolute;
-  top: 90px;
+  top: 85px;
   right: 100px;
   width: 147px;
   height: 51px;
@@ -121,6 +123,45 @@ body {
   color: #fefefe;
 }
 
+.main-skills-block {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.main-skills-image {
+  display: block;
+  margin: 0 auto;
+  width: 75%;
+  color: #fefefe;
+  transition: color 0.2s linear;
+}
+
+.main-skills-image-html:hover {
+  color: #ef652a;
+}
+
+.main-skills-image-css:hover {
+  color: #039be5;
+}
+
+.main-skills-image-js:hover {
+  color: #fdd83c;
+}
+
+.main-skills-image-git:hover {
+  color: #de4c36;
+}
+
+.main-skills-text {
+  margin: 5px;
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: center;
+  color: #fefefe;
+}
+
 .main-text {
   margin: 10px 20px;
   font-family: Lato, sans-serif;
@@ -131,19 +172,27 @@ body {
   color: #fefefe;
 }
 
-.main-skills-list,
 .main-courses-list {
   padding-left: 16px;
 }
 
 .main-code-pre {
-  margin: 0;
+  margin: 0 0 -50px 0;
   font-family: "Courier New", Courier, monospace;
   font-weight: 300;
   font-size: 14px;
   text-align: justify;
   line-height: 1.6;
   color: #bdbdbd;
+}
+
+.main-courses-name {
+  font-weight: 700;
+}
+
+.main-courses-link {
+  color: #fefefe;
+  text-decoration: none;
 }
 
 .main-photo-image {
